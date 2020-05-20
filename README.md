@@ -4,7 +4,7 @@ Polytechnic University of Puerto Rico
 # Details
 This is a group project between Jaime Oliver & Alfredo Rosa
 ## Language Used
-Python 2.7
+Python 3.7
 ## Dependencies
 * Tkinter
 * Pygame
