@@ -19,7 +19,6 @@ Python 3.7
 
 ## Challenges and Modifications
 * Visual improvement and better GUI design
-* Previous functions were modified tu run in Python 3
 * Able to browse a directory in which songs are kept
 
 ## Screenshots
